@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Photo Editor Application.iml" filepath="$PROJECT_DIR$/.idea/modules/Photo Editor Application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Photo_Editor_Application.iml" filepath="$PROJECT_DIR$/.idea/modules/Photo_Editor_Application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Photo_Editor_Application.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Photo_Editor_Application.app.iml" />
     </modules>
   </component>
 </project>
